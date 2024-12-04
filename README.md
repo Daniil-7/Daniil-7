@@ -1,7 +1,5 @@
 # Daniil-7
 --- 
-![Картинка для портфолио](https://res.cloudinary.com/tatemmedia/image/upload/v1644736162/githubprofile.webp)
-<br/>Всем привет! Меня зовут Зайцев Даниил, я  российский разработчик, под ником Daniil-7 или Tatem. Мой основной язык программирования  Python. В разработке я уже больше двух лет, сейчас работаю QA игр в компании bytex.
-Моё основное направление в программировании - web на фреймворк Django. Также люблю делать api и библиотеки, пробую делать игры. Заходите на мой [сайт портфолио](https://tatem.pythonanywhere.com) чтобы посмотреть мои проекты.
+Hi everyone, my name is <b>Daniil</b> and I've been working in *IT for more than two years*. During this time I managed to work on developing websites on *Django framework as a freelancer*, and also got a job in a large gaming company as a *tester*, where I reached <b>QA Middle</b> position. In addition, as a hobby and my main learning project, I am *developing my own game on Unity*.
 
 
